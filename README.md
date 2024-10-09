@@ -1,10 +1,10 @@
 # Proyek Tabel Periodik
 
-Proyek ini adalah halaman HTML yang menampilkan tabel periodik unsur-unsur kimia.
+Proyek ini adalah halaman HTML yang menampilkan tabel periodik unsur-unsur yang terdapat dalam HTML dan CSS.
 
 ## Deskripsi
 
-Halaman `table.html` menyajikan informasi dasar tentang unsur-unsur yang terdapat dalam HTML-nya.
+Halaman `table.html` menyajikan informasi dasar tentang unsur-unsur yang terdapat dalam HTML dan CSS yang ada.
 
 ![Periodic Table](periodic.png)
 
